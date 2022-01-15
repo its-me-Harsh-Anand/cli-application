@@ -1,0 +1,29 @@
+{
+  "name": "devharsh01",
+  "version": "0.0.1",
+  "description": "A CLI application to get my portfolio",
+  "main": "bin/index.js",
+  "bin": {
+    "devharsh01": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-me-Harsh-Anand/cli-application.git"
+  },
+  "keywords": [
+    "cli",
+    "portfolio"
+  ],
+  "author": "Harsh Anand (github.com/its-me-Harsh-Anand)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-me-Harsh-Anand/cli-application/issues"
+  },
+  "homepage": "https://github.com/its-me-Harsh-Anand/cli-application#readme",
+  "dependencies": {
+    "link": "^0.1.5"
+  }
+}
