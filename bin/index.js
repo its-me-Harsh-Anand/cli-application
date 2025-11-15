@@ -346,11 +346,9 @@ if (args.includes('--help') || args.includes('-h')) {
       `${chalk.bold.cyan('Connect with me:')}`,
       '',
       `${chalk.bold('📧 Email:')}        ${info.email}`,
-      `${chalk.bold('📱 Phone:')}        ${info.phone}`,
       `${chalk.bold('🌐 Website:')}      ${info.website}`,
       `${chalk.bold('💼 LinkedIn:')}     ${info.linkedin}`,
       `${chalk.bold('💻 GitHub:')}       ${info.github}`,
-      `${chalk.bold('📚 Stack Overflow:')} ${info.stackoverflow}`,
       `${chalk.bold('📄 Resume:')}       ${info.resume}`,
       '',
       `${chalk.gray('Feel free to reach out!')}`
