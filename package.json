@@ -1,6 +1,6 @@
 {
   "name": "devharsh01",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A beautiful CLI application to get Harsh Anand's portfolio and information",
   "main": "bin/index.js",
   "bin": {
